@@ -1,41 +1,24 @@
-# Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mynkchaudhry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mynkchaudhry) 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Mynkchaudhry/count.svg" />
-</p>
-<h1 align="center" >
+# 💻 Tech Stack:
+	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mynkchaudhry&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mynkchaudhry&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mynkchaudhry&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mynkchaudhry&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🎮 Tools 🎮 
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=mynkchaudhry&icon=7&color=11)](https://visitcount.itsvg.in)
 
-
-</h1>
-<p align="center">
-  <a href="https://github.com/Mynkchaudhry">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mynkchaudhry">
-    <img src="https://skillicons.dev/icons?i=c,java,python" />
-  </a>
-</p>
-
-
-
-
- 
- <h1 align="center">
- 
-|   Github Stats    |   Top Languages             |
-|    -----------    |   -----------------------   |
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mynkchaudhry&show_icons=true&theme=dracula" alt="MayankChaudhry" /></p> | ![MayankChaudhry top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mynkchaudhry&hide=CSS&langs_count=10&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-
- </h1>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
