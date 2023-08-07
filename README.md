@@ -1,6 +1,8 @@
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi<img src="https://media.baamboozle.com/uploads/images/113260/1638441862_32346_gif-url.gif" alt="computer" width="80" data-canonical-src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" style="max-width: 100%;"> , I'm Mayank Chaudhary</h1>
 <h3 align="center">Front-end developer</h3>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mynkchaudhry/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mynkchaudhry) 
 
