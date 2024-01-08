@@ -1,12 +1,5 @@
 
 
-<a href="https://github.com/mynkchaudhry">
-  <img align="right" src="https://github.com/mynkchaudhry&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -101,4 +94,6 @@ I'm proficient in:
 ---
 
 Thank you for visiting! Let's connect and build something awesome!
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-chaudhary&show_icons=true&theme=radical)
+
 
