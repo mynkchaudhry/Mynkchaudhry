@@ -95,5 +95,7 @@ I'm proficient in:
 
 Thank you for visiting! Let's connect and build something awesome!
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-chaudhary&show_icons=true&theme=radical)
+![Mayank's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayank-chaudhary&theme=monokai)
+
 
 
