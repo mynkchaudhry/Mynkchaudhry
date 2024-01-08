@@ -79,30 +79,15 @@
 ## Machine Learning
 ![ml-ds](https://raw.githubusercontent.com/tirthajyoti/Machine-Learning-with-Python/master/Images/ML-DS-cycle-1.png)
 
-# Mayank Chaudhary
 
-[![Linkedin](https://img.shields.io/badge/-mayank--chaudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-chaudhary-3a65161bb/)](https://www.linkedin.com/in/mayank-chaudhary-3a65161bb/)
-[![Instagram](https://img.shields.io/badge/-mynkchaudhry-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mynkchaudhry/)](https://www.instagram.com/mynkchaudhry/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-gray?style=flat-square&link=https://tranquil-satisfaction-173653.framer.app/)](https://tranquil-satisfaction-173653.framer.app/)
 
-## Hi there! 👋
-
-I'm Mayank Chaudhary, a passionate Machine Learning and Web Developer. Welcome to my GitHub repository where I showcase my projects and share insights into my journey.
-
-### About Me
-
-🎓 Currently delving into the realms of Machine Learning and diving deep into the world of Web Development.
-
-🌟 Constantly seeking new challenges and learning opportunities to expand my skill set.
-
-💻 Enthusiastic about leveraging technology to build innovative solutions and create meaningful impact.
 
 ### Tools and Technologies
 
 I'm proficient in:
 
-- **Machine Learning**: Leveraging Python, TensorFlow, Scikit-learn, and PyTorch to explore AI and data-driven solutions.
-- **Web Development**: Crafting web experiences using HTML, CSS, JavaScript, and various frameworks like React.js.
+- **Machine Learning**: Leveraging ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white), ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+- **Web Development**: Crafting web experiences using ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white), ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ### Projects
 
