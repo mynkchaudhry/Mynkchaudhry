@@ -11,8 +11,7 @@
   <samp>
    
     「 I am a Machine Learning Engineer from <b>India</b> 」
-    <br>
-    <br>
+
   </samp>
 </p>
 
