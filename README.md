@@ -7,14 +7,6 @@
         </samp>
 </h3>
 
-<p align="center"> 
-  <samp>
-   
-    「 I am a Machine Learning Engineer from <b>India</b> 」
-
-  </samp>
-</p>
-
 <p align="center">
  <a href="https://tranquil-satisfaction-173653.framer.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
