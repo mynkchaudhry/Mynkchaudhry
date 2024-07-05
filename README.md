@@ -9,8 +9,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
+   
     「 I am a Machine Learning Engineer from <b>India</b> 」
     <br>
     <br>
