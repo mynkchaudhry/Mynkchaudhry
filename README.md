@@ -5,6 +5,7 @@
 ## 🚀 About Me
 I am a passionate **Machine Learning Engineer** with a B.Tech. in Artificial Intelligence and Machine Learning (AIML). Currently, I am working as an **AI Developer** at **Jellyfish Technologies**. I am continuously expanding my knowledge and skills in **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**.
 
+![Mayank's Photo](https://github.com/mynkchaudhry/Mynkchaudhry/blob/main/readme.jpeg) <!-- Replace with your actual photo URL -->
 ---
 
 ## 🛠 Skills & Expertise
@@ -61,4 +62,4 @@ Feel free to reach out to me for collaborations, project ideas, or just to chat 
 
 ---
 
-![Mayank's Photo](https://example.com/path-to-your-photo.jpg) <!-- Replace with your actual photo URL -->
+
