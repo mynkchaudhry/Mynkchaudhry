@@ -14,6 +14,8 @@ I am a passionate **Machine Learning Engineer** with a B.Tech. in Artificial Int
 
 ---
 
+
+
 ## 💼 Professional Experience
 
 ### 🧑‍💻 AI Developer, Jellyfish Technologies
@@ -26,6 +28,17 @@ I am a passionate **Machine Learning Engineer** with a B.Tech. in Artificial Int
 ## 🌱 Currently Learning
 - 🔍 Advanced Large Language Models (LLMs)
 - 🌐 Vision-Language Models (VLMs)
+
+---
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=<USERNAME>&api_domain=wakatime.com&layout=compact&custom_title=My%20Coding%20Activity&v=2&hide_progress=true)
+
+---
+
+**📊 This Week I Spent My Time On:**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
