@@ -37,11 +37,6 @@ A website that generates different style comics using AI, with LLM for story gen
 ### 📱 [Tri-Clone](https://huggingface.co/spaces/mynkchaudhry/Projects)
 A mobile Android app for downloading webpages and their assets as a ZIP file, with a React Native version in progress.
 
-### 🏖️ AI Travel App
-An AI travel app with features such as itinerary planning, real-time travel advisories, image-based location identification, and more. (Under development)
-
----
-
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-chaudhary-3a65161bb)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mynkchaudhry)
@@ -50,16 +45,16 @@ An AI travel app with features such as itinerary planning, real-time travel advi
 
 ---
 
-## 📚 Blog Posts
-- 📝 [Open-Source Video Dubbing](#): Documentation on open-source video dubbing using Whisper, M2M, Coqui xTTS, and SAD Talker.
-
----
-
 ## 💬 Let's Connect!
 Feel free to reach out to me for collaborations, project ideas, or just to chat about the latest in AI and ML.
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mynkchaudhry&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynkchaudhry&layout=compact&theme=radical)
+<p align="center">
+<a href="https://github.com/mynkchaudhry">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mynkchaudhry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mynkchaudhry&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 ---
 
