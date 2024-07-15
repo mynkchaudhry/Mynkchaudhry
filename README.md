@@ -1,90 +1,63 @@
+# 👋 Hello, I'm Mayank Chaudhary!
 
+![Profile Views](https://komarev.com/ghpvc/?username=mynkchaudhry&color=blueviolet)
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Mayank Chaudhary</a></b>
-        </samp>
-</h3>
-
-<p align="center">
- <a href="https://tranquil-satisfaction-173653.framer.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://www.linkedin.com/in/mayank-chaudhary-3a65161bb/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <!--a href="https://twitter.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a-->
- <a href="https://www.instagram.com/mynkchaudhry/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <!--a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-</a> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## Machine Learning
-![ml-ds](https://raw.githubusercontent.com/tirthajyoti/Machine-Learning-with-Python/master/Images/ML-DS-cycle-1.png)
-
-
-
-
-### Tools and Technologies
-
-I'm proficient in:
-
-- **Machine Learning**: Leveraging ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white), ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-- **Web Development**: Crafting web experiences using ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white), ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-
-### Projects
-
-#### Crop Prediction Model
-
-🌾 Developed a crop prediction model using machine learning algorithms to forecast suitable crops based on environmental factors.
-
-#### Movie Recommendation System
-
-🎬 Built a movie recommendation system utilizing collaborative filtering to suggest movies based on user preferences and ratings.
-
-### Portfolio
-
-🚀 Explore my [portfolio](https://tranquil-satisfaction-173653.framer.app/) to see some of my projects and get a glimpse of what I've been working on.
-
-### Let's Connect!
-
-📩 Feel free to reach out to me at mayankatalan98@gmail.com for collaboration, discussions, or just to say hello!
-
-### Contributions
-
-🌟 Open to collaborations and contributions! If you have any ideas or projects in mind, let's discuss and create something amazing together.
+## 🚀 About Me
+I am a passionate **Machine Learning Engineer** with a B.Tech. in Artificial Intelligence and Machine Learning (AIML). Currently, I am working as an **AI Developer** at **Jellyfish Technologies**. I am continuously expanding my knowledge and skills in **Large Language Models (LLMs)** and **Vision-Language Models (VLMs)**.
 
 ---
 
-Thank you for visiting! Let's connect and build something awesome!
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-chaudhary&show_icons=true&theme=radical)
-![Mayank's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayank-chaudhary&theme=monokai)
+## 🛠 Skills & Expertise
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F4AE1A?style=flat&logo=hugging-face&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
+---
 
+## 💼 Professional Experience
 
+### 🧑‍💻 AI Developer, Jellyfish Technologies
+- 🚀 Developed and implemented AI solutions for various projects.
+- 🤖 Worked on integrating and deploying LLMs and VLMs into applications.
+
+### 💡 Intern, Bharat Intern
+- 🎓 Gained hands-on experience in developing AI and machine learning models.
+- 🧠 Participated in hackathons and developed a mental health support chatbot.
+
+---
+
+## 🌱 Currently Learning
+- 🔍 Advanced Large Language Models (LLMs)
+- 🌐 Vision-Language Models (VLMs)
+
+---
+
+## 📈 Projects
+
+### 🎨 [Comic Verse](#)
+A website that generates different style comics using AI, with LLM for story generation and Stable Diffusion for image generation.
+
+### 📱 [Tri-Clone](#)
+A mobile Android app for downloading webpages and their assets as a ZIP file, with a React Native version in progress.
+
+### 🏖️ [AI Travel App](#)
+An AI travel app with features such as itinerary planning, real-time travel advisories, image-based location identification, and more.
+
+---
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mynkchaudhry)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mynkchaudhry)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F4AE1A?style=flat&logo=hugging-face&logoColor=white)](https://huggingface.co/mynkchaudhry)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## 📚 Blog Posts
+- 📝 [Open-Source Video Dubbing](#): Documentation on open-source video dubbing using Whisper, M2M, Coqui xTTS, and SAD Talker.
+
+---
+
+## 💬 Let's Connect!
+Feel free to reach out to me for collaborations, project ideas, or just to chat about the latest in AI and ML.
+
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mynkchaudhry&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynkchaudhry&layout=compact&theme=radical)
