@@ -35,12 +35,6 @@ I am a passionate **Machine Learning Engineer** with a B.Tech. in Artificial Int
 
 ---
 
-**📊 This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 
 ## 📈 Projects
