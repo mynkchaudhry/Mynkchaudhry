@@ -31,7 +31,8 @@ I am a passionate **Machine Learning Engineer** with a B.Tech. in Artificial Int
 
 ---
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mynkchaudhry&api_domain=wakatime.com&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&layout=compact&custom_title=My%20Coding%20Activity&v=2&show_progress=true)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mynkchaudhry&api_domain=wakatime.com&theme=gruvbox&border_color=F39C12&text_color=FFFFFF&icon_color=F1C40F&title_color=E74C3C&layout=compact&custom_title=My%20Coding%20Activity&v=2&show_progress=true)
+
 
 ---
 
