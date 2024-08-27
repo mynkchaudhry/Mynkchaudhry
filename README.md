@@ -38,12 +38,6 @@ I am a passionate **Machine Learning Engineer** with a B.Tech. in Artificial Int
     style="width: 100%; max-width: 800px; animation: fadeIn 2s ease-in-out;">
 </div>
 
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
 
 
 
