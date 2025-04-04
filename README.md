@@ -72,6 +72,12 @@ I specialize in:
 ---
 
 ## 📈 Projects
+### 🧠 [RAGify - AI Document Intelligence](https://ragifyyai.netlify.app/)
+A platform that leverages Retrieval-Augmented Generation (RAG) to convert documents into intelligent, context-aware applications. Includes a free trial experience and can be used to build document Q&A systems with LLMs.
+
+### 📄 [NeuroOCR - AI-Powered Document Processing](https://neuroocr.netlify.app/)
+An end-to-end document analysis system using OCR + AI to extract, structure, and interpret data from scanned files and PDFs. Converts raw documents into structured formats (JSON/CSV) and integrates with external workflows or APIs. Features drag & drop upload and a live playground.
+
 
 ### 🎨 [Comic Verse](https://comicc.netlify.app/)
 An AI comic generator that merges LLM-based storytelling with Stable Diffusion for creative image generation.
