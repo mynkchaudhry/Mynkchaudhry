@@ -80,10 +80,11 @@ An end-to-end document analysis system using OCR + AI to extract, structure, and
 
 
 ### 🎨 [Comic Verse](https://comicc.netlify.app/)
-An AI comic generator that merges LLM-based storytelling with Stable Diffusion for creative image generation.
+An end-to-end AI-powered comic creation tool. Users provide prompts or themes, and the system uses an LLM to generate a coherent story. Then, each scene is visually represented using Stable Diffusion to create comic panels. It's ideal for storytellers, comic creators, or educators who want to visualize narratives with minimal effort.
 
 ### 📱 [Tri-Clone](https://huggingface.co/spaces/mynkchaudhry/Projects)
-An app that downloads websites with all assets into a ZIP archive. React Native version in development.
+A productivity tool designed to clone any website into a downloadable ZIP file containing HTML, CSS, JavaScript, and media files. Built with Python for the backend and supports both desktop and (in-progress) React Native mobile versions. Useful for offline archiving, website backup, or UI/UX learning.
+
 
 ### 🧠 [Fine-Tuning + RAG Stack (Private)]
 An end-to-end custom chatbot pipeline using:
