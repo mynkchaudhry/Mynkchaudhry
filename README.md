@@ -13,7 +13,7 @@ I specialize in:
 - 🎨 Integrating AI in frontend tasks using tools like **Lovable**
 - 🚀 Deploying applications using **Hugging Face**, **LangChain**, and **Groq**
 
-![Mayank's Photo](https://github.com/mynkchaudhry/Mynkchaudhry/blob/main/readme.jpeg)
+![Mayank's Photo](https://github.com/mynkchaudhry/Mynkchaudhry/blob/main/ai.png)
 
 ---
 
