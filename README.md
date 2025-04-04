@@ -72,24 +72,35 @@ I specialize in:
 ---
 
 ## 📈 Projects
+
+### 🎨 [Comic Verse](https://comicc.netlify.app/)
+An end-to-end AI-powered comic creation tool. Users provide prompts or themes, and the system uses an LLM to generate a coherent story. Then, each scene is visually represented using Stable Diffusion to create comic panels. It's ideal for storytellers, comic creators, or educators who want to visualize narratives with minimal effort.
+
+### 📱 [Tri-Clone](https://huggingface.co/spaces/mynkchaudhry/Projects)
+A productivity tool designed to clone any website into a downloadable ZIP file containing HTML, CSS, JavaScript, and media files. Built with Python for the backend and supports both desktop and (in-progress) React Native mobile versions. Useful for offline archiving, website backup, or UI/UX learning.
+
 ### 🧠 [RAGify - AI Document Intelligence](https://ragifyyai.netlify.app/)
 A platform that leverages Retrieval-Augmented Generation (RAG) to convert documents into intelligent, context-aware applications. Includes a free trial experience and can be used to build document Q&A systems with LLMs.
 
 ### 📄 [NeuroOCR - AI-Powered Document Processing](https://neuroocr.netlify.app/)
 An end-to-end document analysis system using OCR + AI to extract, structure, and interpret data from scanned files and PDFs. Converts raw documents into structured formats (JSON/CSV) and integrates with external workflows or APIs. Features drag & drop upload and a live playground.
 
+### 🧠 Fine-Tuning + RAG Stack (Private)  
+An **optimized** chatbot pipeline with **efficient retrieval & high-speed generation**.  
 
-### 🎨 [Comic Verse](https://comicc.netlify.app/)
-An AI comic generator that merges LLM-based storytelling with Stable Diffusion for creative image generation.
+## ⚡ Tech Stack  
+- **Pinecone** → Vector storage  
+- **OpenAI Embeddings + LangChain** → Smart retrieval  
+- **Groq + LLaMA 70B** → Ultra-fast responses  
+## 🔹 Key Features  
+- **Hybrid Search** (Dense + Sparse)  
+- **Self-Refining RAG** for better responses  
+- **Conversational Memory** retention  
+- **Citations & Source Attribution**  
+- **Real-Time Streaming Responses**  
 
-### 📱 [Tri-Clone](https://huggingface.co/spaces/mynkchaudhry/Projects)
-An app that downloads websites with all assets into a ZIP archive. React Native version in development.
+🚀 **Built for privacy, speed & accuracy.**  
 
-### 🧠 [Fine-Tuning + RAG Stack (Private)]
-An end-to-end custom chatbot pipeline using:
-- `Pinecone` for vector storage
-- `OpenAI Embeddings` + `LangChain` for retrieval
-- `Groq + LLaMA 70B` for generation
 
 ---
 
