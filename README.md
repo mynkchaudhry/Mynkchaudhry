@@ -1,93 +1,83 @@
-# 🚀 **Mayank Chaudhary** | AI Engineer & Innovator  
+# 👋 Hello, I'm Mayank Chaudhary!
 
-![Profile Views](https://komarev.com/ghpvc/?username=mynkchaudhry&color=blueviolet)  
+![Profile Views](https://komarev.com/ghpvc/?username=mynkchaudhry&color=blueviolet)
 
-👨‍💻 AI Developer @ **Jellyfish Technologies** | 💡 **Machine Learning Engineer** | 🏆 **LLMs | RAG | OCR | AI Frontend**  
+## 🚀 About Me
+I am a **Machine Learning Engineer** with a **B.Tech. in Artificial Intelligence and Machine Learning (AIML)**, currently working as an **AI Developer** at **Jellyfish Technologies**. With **1.5+ years of industry experience**, I specialize in building **intelligent AI systems** using **LLMs, VLMs, and GPU-accelerated infrastructure**.
 
-> **I build AI-powered applications that transform text, images, and knowledge into intelligent, interactive systems.**  
+🔹 **Expert in Fine-tuning Large Language Models (LLMs) with H200 GPUs** via **RunPod**  
+🔹 **Building advanced Retrieval-Augmented Generation (RAG) applications**  
+🔹 **Developing cutting-edge OCR pipelines for document understanding**  
+🔹 **Enhancing frontend with AI-powered interactions using Lovable**  
+🔹 **Deploying AI solutions with Hugging Face, LangChain, and Groq**  
 
-📍 **Fine-tuning LLMs | RAG-based AI Systems | OCR & Document AI | AI Frontend with Lovable**  
-
----
-
-## 🎯 **What I Do**  
-✔️ **Fine-tune LLMs** on **H200 GPUs** via **RunPod**  
-✔️ Build **RAG-based AI chatbots** for real-time knowledge retrieval  
-✔️ Develop **OCR pipelines** to structure documents into JSON/CSV  
-✔️ Use **LangChain, Groq, Hugging Face** for AI-driven solutions  
-✔️ Integrate **AI in Frontend UX** with Lovable & multimodal models  
-
-🛠️ **Tech Stack:** **Python, TensorFlow, PyTorch, LangChain, Hugging Face, Streamlit, Groq, MongoDB, Firebase, AWS**  
+![Mayank's Photo](https://github.com/mynkchaudhry/Mynkchaudhry/blob/main/ai.png)
 
 ---
 
-## 🏆 **My AI Creations**  
+## 🛠 Tech Stack & Skills
 
-### 🔥 **RAGify - AI Document Intelligence**  
-🚀 [Live Demo](https://ragifyyai.netlify.app/) | 🧠 **Transform Documents into AI-Powered Knowledge Bases**  
-💡 **What it does?** Converts PDFs into interactive, smart assistants using RAG + LLMs  
-
-### 📄 **NeuroOCR - AI-Powered Document Processing**  
-🔗 [Try It](https://neuroocr.netlify.app/) | 📜 **Extract, Structure & Interpret Documents with AI**  
-🔍 OCR + NLP pipeline for **automatic text extraction, structuring & API integration**  
-
-### 🎨 **Comic Verse - AI Storyteller & Generator**  
-📖 [Explore](https://comicc.netlify.app/) | 🤖 **LLM-powered AI storytelling + Stable Diffusion art**  
-
-### 📱 **Tri-Clone - Website Downloader**  
-🔗 [Check It Out](https://huggingface.co/spaces/mynkchaudhry/Projects) | 🌐 **Download entire websites as ZIP files**  
-
-🛠 **(More projects in progress – always building, always innovating!)**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![OCR](https://img.shields.io/badge/-OCR-9B59B6?style=flat&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
+![Langchain](https://img.shields.io/badge/-Langchain-2C3E50?style=flat&logo=chainlink&logoColor=white) 
+![Groq](https://img.shields.io/badge/-Groq-31A8FF?style=flat&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
 
 ---
 
-## 🔥 **Technical Skills & Tools**  
+## 💼 Professional Experience
 
-🚀 **LLMs & AI Models:**  
-✔️ **LLaMA Models (Meta-Llama-3-70B)** | Groq | OpenAI | Hugging Face  
-✔️ **Fine-tuning LLMs** (Supervised, LoRA, QLoRA)  
-✔️ **Vector Databases:** Pinecone | ChromaDB | Qdrant  
-
-📚 **Tech Stack & Tools:**  
-✔️ **Python** | TensorFlow | PyTorch | FastAPI | Flask | SQL | NoSQL  
-✔️ **LangChain** | LangSmith | RAG Stack | OCR Pipelines  
-✔️ **Frontend:** JavaScript | React | Streamlit | Lovable  
-✔️ **Cloud & Deployment:** AWS | Firebase | RunPod | Hugging Face  
-
-🔥 **Favorite Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Langchain](https://img.shields.io/badge/-Langchain-2C3E50?style=flat&logo=chainlink&logoColor=white)  
-![Groq](https://img.shields.io/badge/-Groq-31A8FF?style=flat&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![RunPod](https://img.shields.io/badge/-RunPod-5A189A?style=flat&logoColor=white)  
+### 🚀 AI Developer @ Jellyfish Technologies
+- **Fine-tuned LLMs** on **H200 GPUs** for domain-specific applications.
+- **Built scalable RAG chatbots** with **LangChain, Groq, and Redis**.
+- **Developed advanced OCR pipelines** for structured data extraction.
+- **Integrated AI into frontend applications** for an **enhanced user experience**.
+- **Deployed AI-powered chatbots** with dynamic knowledge updates.
 
 ---
 
-## 📊 **Activity & Contributions**  
+## 📌 Featured Projects
 
-🚀 **Coding Stats & GitHub Analytics**  
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mynkchaudhry&api_domain=wakatime.com&theme=gruvbox&border_color=F39C12&text_color=FFFFFF&icon_color=F1C40F&title_color=E74C3C&layout=compact&custom_title=My%20Coding%20Activity&v=2&show_progress=true)  
+### 🔥 [RAGify - AI Document Intelligence](https://ragifyyai.netlify.app/)
+A **powerful RAG-based document Q&A** system that transforms documents into AI-powered assistants.
 
-📈 **GitHub Contributions**  
-<a href="https://github.com/mynkchaudhry">  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mynkchaudhry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mynkchaudhry&layout=compact&langs_count=8&theme=algolia"/>  
-</a>  
+### 📄 [NeuroOCR - AI-Powered Document Processing](https://neuroocr.netlify.app/)
+A **next-gen OCR pipeline** that converts scanned documents into structured JSON/CSV formats.
+
+### 🎨 [ComicVerse - AI-Powered Comic Generator](https://comicc.netlify.app/)
+Merges **AI storytelling and image generation** to create stunning comics.
+
+### ⚡ [Tri-Clone](https://huggingface.co/spaces/mynkchaudhry/Projects)
+An **AI-powered website downloader** that zips entire sites for offline use.
 
 ---
 
-## 📢 **Let's Connect & Collaborate**  
+## 📈 My Coding Activity
 
-💼 **Open to:**  
-✔️ AI & ML projects  
-✔️ Consulting for LLM/RAG solutions  
-✔️ Research & AI startup ideas  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mynkchaudhry&api_domain=wakatime.com&theme=gruvbox&border_color=F39C12&text_color=FFFFFF&icon_color=F1C40F&title_color=E74C3C&layout=compact&custom_title=My%20Coding%20Activity&v=2&show_progress=true" style="width: 100%; max-width: 800px;">
+</div>
 
-📫 **Reach me at:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-chaudhary-3a65161bb)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mynkchaudhry)  
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F4AE1A?style=flat&logo=hugging-face&logoColor=white)](https://huggingface.co/mynkchaudhry)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayanktalan98@gmail.com)  
+---
 
-💬 **Let's create something groundbreaking in AI together! 🚀**
+## 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-chaudhary-3a65161bb)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mynkchaudhry)  [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F4AE1A?style=flat&logo=hugging-face&logoColor=white)](https://huggingface.co/mynkchaudhry)  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayanktalan98@gmail.com)
+
+---
+
+## 🚀 Open to Collaborations!
+I'm always excited to explore new AI projects, research ideas, and innovative applications. Let's build something game-changing together! 💡✨
+
+---
+
+<p align="center">
+<a href="https://github.com/mynkchaudhry">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mynkchaudhry&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mynkchaudhry&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
