@@ -303,28 +303,6 @@ class MayankChaudhary:
 
 ---
 
-## 🎯 2025 Mission: World Domination Through AI
-
-<div align="center">
-
-### 🚀 **Current Objectives**
-```mermaid
-graph TD
-    A[🧠 Master Multimodal AI] --> B[🎮 Interactive AI UX]
-    B --> C[⚡ Real-time AI Agents]
-    C --> D[🌍 Global AI Impact]
-    D --> E[🚀 AGI Contribution]
-```
-
-**2025 Goals:**
-- 🏆 **Launch 5 groundbreaking AI projects**
-- 🌟 **Contribute to open-source AI ecosystem**
-- 🎯 **Build AI that solves real-world problems**
-- 🚀 **Mentor next generation of AI developers**
-- 🌍 **Create AI solutions for social good**
-
-</div>
-
 ---
 
 ## 🤝 Connect & Collaborate
@@ -352,15 +330,18 @@ graph TD
 
 <div align="center">
   
-  <svg width="100%" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Animated Contribution Visualization -->
+  <svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="snakeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="contributionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#FF6B35;stop-opacity:1" />
+        <stop offset="25%" style="stop-color:#FF6B35;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#FFD700;stop-opacity:1" />
+        <stop offset="75%" style="stop-color:#FF6B35;stop-opacity:1" />
         <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:1" />
       </linearGradient>
-      <filter id="snakeGlow">
-        <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <filter id="contributionGlow">
+        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
         <feMerge> 
           <feMergeNode in="coloredBlur"/>
           <feMergeNode in="SourceGraphic"/>
@@ -368,36 +349,62 @@ graph TD
       </filter>
     </defs>
     
-    <!-- Animated snake-like contribution visualization -->
-    <path d="M 50 50 Q 150 20 250 50 Q 350 80 450 50 Q 550 20 650 50 Q 750 80 800 50" 
+    <!-- Main contribution wave -->
+    <path d="M 0 60 Q 100 30 200 60 Q 300 90 400 60 Q 500 30 600 60 Q 700 90 800 60" 
           fill="none" 
-          stroke="url(#snakeGradient)" 
-          stroke-width="4" 
-          filter="url(#snakeGlow)">
-      <animate attributeName="stroke-dasharray" values="0,1000;500,500;0,1000" dur="4s" repeatCount="indefinite"/>
+          stroke="url(#contributionGradient)" 
+          stroke-width="6" 
+          filter="url(#contributionGlow)">
+      <animate attributeName="stroke-dasharray" values="0,2000;1000,1000;0,2000" dur="5s" repeatCount="indefinite"/>
     </path>
     
-    <!-- Floating code particles -->
-    <g fill="#00D4FF" opacity="0.7" font-family="monospace" font-size="10">
-      <text x="100" y="30">&lt;/&gt;</text>
-      <text x="300" y="20">AI</text>
-      <text x="500" y="25">ML</text>
-      <text x="700" y="30">{}</text>
-      <animateTransform attributeName="transform" type="translate" values="0,0;20,0;0,0" dur="3s" repeatCount="indefinite"/>
+    <!-- Secondary wave -->
+    <path d="M 0 80 Q 150 50 300 80 Q 450 110 600 80 Q 750 50 800 80" 
+          fill="none" 
+          stroke="#00D4FF" 
+          stroke-width="3" 
+          opacity="0.6">
+      <animate attributeName="stroke-dasharray" values="0,1500;750,750;0,1500" dur="4s" begin="1s" repeatCount="indefinite"/>
+    </path>
+    
+    <!-- Activity nodes -->
+    <circle cx="100" cy="60" r="5" fill="#00D4FF" opacity="0.9">
+      <animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="250" cy="60" r="5" fill="#FF6B35" opacity="0.9">
+      <animate attributeName="r" values="5;8;5" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="60" r="5" fill="#FFD700" opacity="0.9">
+      <animate attributeName="r" values="5;8;5" dur="2s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="550" cy="60" r="5" fill="#FF6B35" opacity="0.9">
+      <animate attributeName="r" values="5;8;5" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="60" r="5" fill="#00D4FF" opacity="0.9">
+      <animate attributeName="r" values="5;8;5" dur="2s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="2s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Floating tech symbols -->
+    <g fill="#00D4FF" opacity="0.6" font-family="monospace" font-size="14" font-weight="bold">
+      <text x="80" y="25" transform="rotate(-10 80 25)">AI</text>
+      <text x="220" y="35" transform="rotate(10 220 35)">ML</text>
+      <text x="380" y="25" transform="rotate(-10 380 25)">LLM</text>
+      <text x="520" y="35" transform="rotate(10 520 35)">RAG</text>
+      <text x="680" y="25" transform="rotate(-10 680 25)">GPU</text>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3s" repeatCount="indefinite"/>
     </g>
     
-    <!-- Pulsing dots representing commits -->
-    <circle cx="150" cy="50" r="3" fill="#FF6B35" opacity="0.8">
-      <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="350" cy="50" r="3" fill="#FFD700" opacity="0.8">
-      <animate attributeName="r" values="3;6;3" dur="2s" begin="0.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="550" cy="50" r="3" fill="#00D4FF" opacity="0.8">
-      <animate attributeName="r" values="3;6;3" dur="2s" begin="1s" repeatCount="indefinite"/>
-    </circle>
+    <!-- Background glow effect -->
+    <ellipse cx="400" cy="60" rx="300" ry="40" fill="url(#contributionGradient)" opacity="0.1">
+      <animate attributeName="opacity" values="0.1;0.2;0.1" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
   </svg>
   
-  ### 🚀 **"In a world of artificial intelligence, be the one who makes it genuinely intelligent"**
+  ### 🚀 **"Transforming possibilities into realities, one neural network at a time"**
   
 </div>
