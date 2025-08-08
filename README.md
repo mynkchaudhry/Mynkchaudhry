@@ -19,6 +19,8 @@
 
 <div align="center">
 
+<img src="readme.jpeg" alt="Mayank Chaudhary" width="400" style="border-radius: 15px;">
+
 ## 👨‍💻 About Me
 
 **AI Engineer at Jellyfish Technologies** | **1.5+ Years Experience** | **B.Tech AI/ML**
