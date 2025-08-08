@@ -247,25 +247,6 @@ Responsive applications with modern frameworks
 </tr>
 </table>
 
-
-AI-driven ventures & innovative solutions
-
-</td>
-<td align="center" width="25%">
-
-**📚 Mentoring**
-Guiding aspiring AI engineers
-
-</td>
-<td align="center" width="25%">
-
-**💡 Innovation**
-Transforming ideas into reality
-
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
