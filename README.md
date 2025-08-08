@@ -25,28 +25,7 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
 
-**🎯 Current Focus**
-- Fine-tuning LLMs on H200 GPUs
-- Building RAG architectures
-- Multimodal AI applications
-- Production AI deployment
-
-</td>
-<td align="center" width="50%">
-
-**💡 Specializations**
-- Large Language Models
-- Computer Vision & OCR
-- Vector Databases & Search
-- MLOps & Cloud Infrastructure
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -227,8 +206,6 @@ Responsive applications with modern frameworks
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mynkchaudhry&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mynkchaudhry&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
@@ -270,29 +247,7 @@ Responsive applications with modern frameworks
 </tr>
 </table>
 
----
 
-<div align="center">
-
-## 🤝 Let's Collaborate!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-
-**Open to exciting opportunities in:**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-**🔬 Research**
-Open-source AI projects & cutting-edge research
-
-</td>
-<td align="center" width="25%">
-
-**🚀 Startups**
 AI-driven ventures & innovative solutions
 
 </td>
