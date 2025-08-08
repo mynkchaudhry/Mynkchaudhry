@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="readme.jpeg" alt="Mayank Chaudhary" width="600" style="border-radius: 25px;">
+<img src="readme.jpeg" alt="Mayank Chaudhary" width="900" style="border-radius: 30px;">
 
 ## 👨‍💻 About Me
 
